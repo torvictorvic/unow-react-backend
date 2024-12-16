@@ -38,8 +38,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 1. **Clonar el Repositorio**
 
    ```bash
-   git clone https://github.com/unow-react-backend/react-frontend.git
-   cd react-frontend
+   git clone https://github.com/torvictorvic/unow-react-frontend.git
+   cd unow-react-frontend
 
 2. **Instalar Dependencias**
 
